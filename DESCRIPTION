@@ -1,0 +1,14 @@
+Package: mirPLS
+Type: Package
+Title: mirPLS: a partial linear structure identifier algorithm for miRNA data
+Version: 1.0.0
+Author: Peifeng Ruan  
+Maintainer: Peifeng Ruan <pruan@gwu.edu>
+Depends: MASS, gam, splines, gss, glmnet, lars, SNFtool
+Description: a Partial Linear Structure identifier for miRNA analysis that is 
+    able to simultaneously identify miRNAs of linear or non-linear associations 
+    with diseases when the non-linearly associated miRNAs can then be used for 
+    disease subtyping
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
