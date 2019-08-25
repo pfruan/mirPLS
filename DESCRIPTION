@@ -9,6 +9,6 @@ Description: a Partial Linear Structure identifier for miRNA analysis that is
     able to simultaneously identify miRNAs of linear or non-linear associations 
     with diseases when the non-linearly associated miRNAs can then be used for 
     disease subtyping
-License: GPL-2
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
