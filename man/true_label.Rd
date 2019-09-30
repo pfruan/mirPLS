@@ -12,7 +12,7 @@ data(true_label)
 }
 \format{
 A vector indicating the true clustering lables of 200 cases\cr
-Refer to simulation part of mirPLS: a partial linear structure identifier algorithm for miRNA data. Peifeng Ruan, Shuang Wang, Hua Liang.
+Refer to simulation part of Nonlinear molecular omics features for cancers subtyping. Peifeng Ruan, Shuang Wang, Hua Liang.
 
 }
 \etrue_labelamples{
