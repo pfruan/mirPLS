@@ -1,4 +1,4 @@
-**The R package for ‘mirPLS: a partial linear structure identifier method for miRNA data.’** 
+**The R package for ‘Nonlinear molecular omics features for cancers subtyping.’** 
 
 **Example data:**
 
