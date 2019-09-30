@@ -1,6 +1,6 @@
 Package: mirPLS
 Type: Package
-Title: mirPLS: a partial linear structure identifier algorithm for miRNA data
+Title: Nonlinear molecular omics features for cancers subtyping
 Version: 1.0.0
 Author: Peifeng Ruan  
 Maintainer: Peifeng Ruan <pruan@gwu.edu>
