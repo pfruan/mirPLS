@@ -26,7 +26,7 @@ index - index of the covariate whose component function estimate is to be return
 Regression means of new data.
 }
 \references{
-mirPLS: a partial linear structure identifier algorithm for miRNA data. Peifeng Ruan, Shuang Wang, Hua Liang.
+Nonlinear molecular omics features for cancers subtyping. Peifeng Ruan, Shuang Wang, Hua Liang.
 }
 
 %% ~Make other sections like Warning with \section{Warning }{....} ~
