@@ -12,7 +12,7 @@ data(x)
 }
 \format{
 A 300 subjects * 300 miRNAs matrix. The first 6 columns are 6 miRNAs have non-linear associations, the next 14 columns are 14 miRNAs have non-linear associations and the others are miRNAs have no associations.\cr
-Refer to simulation part of mirPLS: a partial linear structure identifier algorithm for miRNA data. Peifeng Ruan, Shuang Wang, Hua Liang.
+Refer to simulation part of Nonlinear molecular omics features for cancers subtyping. Peifeng Ruan, Shuang Wang, Hua Liang.
 
 }
 \examples{
