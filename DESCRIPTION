@@ -1,6 +1,6 @@
 Package: mirPLS
 Type: Package
-Title: Nonlinear molecular omics features for cancers subtyping
+Title: mirPLS: a partial linear structure identifier method for cancer subtyping using MicroRNAs 
 Version: 1.0.0
 Author: Peifeng Ruan  
 Maintainer: Peifeng Ruan <pruan@gwu.edu>
