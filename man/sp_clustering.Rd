@@ -26,7 +26,7 @@ The number of clusters. It can be a signle number or a list which contains the p
 A vector consisting of cluster labels of each sample.
 }
 \references{
-Nonlinear molecular omics features for cancers subtyping. Peifeng Ruan, Shuang Wang, Hua Liang.
+mirPLS: a partial linear structure identifier method for cancer subtyping using MicroRNAs. Peifeng Ruan, Shuang Wang, Hua Liang.
 Similarity Network Fusion: a fast and effective method to aggregate multiple data types on a genome wide scale. Bo Wang, et al.
 }
 
