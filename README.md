@@ -1,4 +1,4 @@
-**The R package for ‘Nonlinear molecular omics features for cancers subtyping.’** 
+**The R package for ‘mirPLS: a partial linear structure identifier method for cancer subtyping using MicroRNAs’** 
 
 **Example data:**
 
