@@ -35,7 +35,7 @@ Number of folders.
 Regularization parameters suggested by cross validation.
 }
 \references{
-Nonlinear molecular omics features for cancers subtyping. Peifeng Ruan, Shuang Wang, Hua Liang.
+mirPLS: a partial linear structure identifier method for cancer subtyping using MicroRNAs. Peifeng Ruan, Shuang Wang, Hua Liang.
 }
 
 %% ~Make other sections like Warning with \section{Warning }{....} ~
