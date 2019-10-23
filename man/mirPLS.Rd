@@ -35,7 +35,7 @@ Whether perform the proposed further selection step.
 Returns a mirPLS object. In the returned object, type represents a vector of association types of miRNAs. 2 represents a non-linear miRNA, 1 represents a linear association and 0 represents no association.
 }
 \references{
-Nonlinear molecular omics features for cancers subtyping. Peifeng Ruan, Shuang Wang, Hua Liang.
+mirPLS: a partial linear structure identifier method for cancer subtyping using MicroRNAs. Peifeng Ruan, Shuang Wang, Hua Liang.
 }
 
 %% ~Make other sections like Warning with \section{Warning }{....} ~
